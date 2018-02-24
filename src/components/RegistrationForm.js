@@ -1,5 +1,5 @@
 class RegistrationForm extends React.Component{
-  render(){
+  render() {
     return (
       <form>
         <input type="text" name="name">
